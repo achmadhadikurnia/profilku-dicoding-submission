@@ -1,5 +1,5 @@
-# Belajar Dasar Pemrograman Web
-Pelajari komponen-komponen dasar HTML, CSS, dan JavaScript yang merupakan fondasi utama untuk menjadi web developer.
+# Profilku
+Displaying my profile and portfolio web page.
 
 ## Information
 [View](https://github.com/achmadhadikurnia/belajar-dasar-pemrograman-web-dicoding-certificate)
