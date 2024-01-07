@@ -1,8 +1,8 @@
 # Profilku
 Displaying my profile and portfolio web page.
 
-## Information
-[View](https://github.com/achmadhadikurnia/belajar-dasar-pemrograman-web-dicoding-certificate)
+## Class
+[Belajar Dasar Pemrograman Web](https://github.com/achmadhadikurnia/belajar-dasar-pemrograman-web-dicoding-certificate)
 
 ## Screenshots
 ![screenshot_1.png](/screenshots/screenshot_1.png)
